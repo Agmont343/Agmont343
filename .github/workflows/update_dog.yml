@@ -31,7 +31,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md || true
-          # Если нет изменений — exit со 0 и сообщение, иначе сделаем коммит и пуш
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
