@@ -28,21 +28,10 @@
 ---
 
 ### 🐶 Dog of the Day — for daily inspiration
-![Dog of the Day](https://dog.ceo/api/breeds/image/random)
+
+<!-- DOG_OF_DAY_START -->
+![Dog of the Day](https://images.dog.ceo/breeds/husky/n02110185_1469.jpg)
+_Last updated: 28 Oct 2025_
+<!-- DOG_OF_DAY_END -->
 
 > "Good code is like a dog's bark: clear, reliable, and always on guard." 🐕
-
-<!--
-**Agmont343/Agmont343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
