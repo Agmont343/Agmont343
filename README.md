@@ -30,7 +30,7 @@
 ### 🐶 Dog of the Day — for daily inspiration
 
 <!-- DOG_OF_DAY_START -->
-![Dog of the Day](https://images.dog.ceo/breeds/husky/n02110185_1469.jpg)
+![Dog of the Day](https://images.dog.ceo/breeds/retriever-flatcoated/n02099267_2419.jpg)
 _Last updated: 28 Oct 2025_
 <!-- DOG_OF_DAY_END -->
 
