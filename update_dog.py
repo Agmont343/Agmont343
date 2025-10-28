@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import requests
 import re
 from pathlib import Path
@@ -16,12 +15,11 @@ def get_random_dog_image() -> str:
     resp = requests.get(url, timeout=10)
     resp.raise_for_status()
     data = resp.json()
-    # В ответе ожидаем поле "message" с url картинки
     return data.get("message")
 
 def make_new_block(image_url: str) -> str:
     """Формирует новый HTML/Markdown блок с картинкой и датой."""
-    date_str = datetime.now().strftime("%d %b %Y")  # напр.: 28 Oct 2025
+    date_str = datetime.now().strftime("%d %b %Y") 
     block = (
         "<!-- DOG_OF_DAY_START -->\n"
         f"![Dog of the Day]({image_url})\n"
