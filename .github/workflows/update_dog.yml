@@ -3,7 +3,10 @@ name: 🐶 Update Dog of the Day
 on:
   schedule:
     - cron: "0 7 * * *" 
-  workflow_dispatch:      
+  workflow_dispatch:
+
+permissions:
+  contents: write 
 
 jobs:
   update-dog:
@@ -23,12 +26,15 @@ jobs:
       - name: Update dog image
         run: python update_dog.py
 
-      - name: Commit and push changes
+      - name: Commit and push changes (only if changed)
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "🐕 Update Dog of the Day"
-          git push
-          
-Commit new file
+          git add README.md || true
+          # Если нет изменений — exit со 0 и сообщение, иначе сделаем коммит и пуш
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🐕 Update Dog of the Day"
+            git push
+          fi
