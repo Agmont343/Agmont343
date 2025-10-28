@@ -28,7 +28,7 @@
 ---
 
 ### 🐶 Dog of the Day — for daily inspiration
-![Dog](https://dog.ceo/api/breeds/image/random)
+![Dog of the Day](https://dog.ceo/api/breeds/image/random)
 
 > "Good code is like a dog's bark: clear, reliable, and always on guard." 🐕
 
