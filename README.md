@@ -30,8 +30,8 @@
 ### 🐶 Dog of the Day — for daily inspiration
 
 <!-- DOG_OF_DAY_START -->
-![Dog of the Day](https://images.dog.ceo/breeds/mountain-swiss/n02107574_1437.jpg)
-_Last updated: 02 Nov 2025_
+![Dog of the Day](https://images.dog.ceo/breeds/akita/Akita_Inu_dog.jpg)
+_Last updated: 03 Nov 2025_
 <!-- DOG_OF_DAY_END -->
 
 > "Good code is like a dog's bark: clear, reliable, and always on guard." 🐕
