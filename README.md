@@ -16,8 +16,10 @@
 
 ---
 
-### 🚀 Coming soon:
-- My first public FastAPI project — a REST API with authentication and interactive docs via Swagger UI!
+### 🚀 Featured project
+
+- OZON/Wildberries/YandexMarket Parser — a Telegram bot that scrapes Russian marketplaces data and sends personalized updates straight to your chat. Supports filters, scheduled refreshes, and tailored alerts.
+- Парсер для ЯМ, ВБ, Озон, который ищет самые дешевые позиции по запросу/артиклу, с возможностью отслеживать изменение цен. Уведомления приходят в чат, вы никогда не упустите выгодный прайс
 
 ---
 
@@ -31,7 +33,7 @@
 
 <!-- DOG_OF_DAY_START -->
 ![Dog of the Day](https://images.dog.ceo/breeds/bouvier/n02106382_1633.jpg)
-_Last updated: 13 Nov 2025_
+_Come see a new doggy tomorrow — be pawsitively surprised!_
 <!-- DOG_OF_DAY_END -->
 
-> "Good code is like a dog's bark: clear, reliable, and always on guard." 🐕
+> "Good code is like a faithful dog: reliable and never bites." 🐕
