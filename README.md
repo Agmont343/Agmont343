@@ -32,8 +32,8 @@
 ### 🐶 Dog of the Day — for daily inspiration
 
 <!-- DOG_OF_DAY_START -->
-![Dog of the Day](https://images.dog.ceo/breeds/spaniel-japanese/n02085782_3870.jpg)
-_Last updated: 21 Nov 2025_
+![Dog of the Day](https://images.dog.ceo/breeds/terrier-border/n02093754_2276.jpg)
+_Last updated: 22 Nov 2025_
 <!-- DOG_OF_DAY_END -->
 
 > "Good code is like a faithful dog: reliable and never bites." 🐕
