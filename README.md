@@ -32,8 +32,8 @@
 ### 🐶 Dog of the Day — for daily inspiration
 
 <!-- DOG_OF_DAY_START -->
-![Dog of the Day](https://images.dog.ceo/breeds/mastiff-bull/n02108422_4503.jpg)
-_Last updated: 10 Dec 2025_
+![Dog of the Day](https://images.dog.ceo/breeds/springer-english/n02102040_5388.jpg)
+_Last updated: 11 Dec 2025_
 <!-- DOG_OF_DAY_END -->
 
 > "Good code is like a faithful dog: reliable and never bites." 🐕
