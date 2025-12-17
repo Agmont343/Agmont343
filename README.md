@@ -32,8 +32,8 @@
 ### 🐶 Dog of the Day — for daily inspiration
 
 <!-- DOG_OF_DAY_START -->
-![Dog of the Day](https://images.dog.ceo/breeds/terrier-dandie/n02096437_3603.jpg)
-_Last updated: 16 Dec 2025_
+![Dog of the Day](https://images.dog.ceo/breeds/terrier-scottish/n02097298_8911.jpg)
+_Last updated: 17 Dec 2025_
 <!-- DOG_OF_DAY_END -->
 
 > "Good code is like a faithful dog: reliable and never bites." 🐕
