@@ -32,8 +32,8 @@
 ### 🐶 Dog of the Day — for daily inspiration
 
 <!-- DOG_OF_DAY_START -->
-![Dog of the Day](https://images.dog.ceo/breeds/ridgeback-rhodesian/n02087394_6382.jpg)
-_Last updated: 21 Jan 2026_
+![Dog of the Day](https://images.dog.ceo/breeds/bakharwal-indian/Bakharwal.jpg)
+_Last updated: 22 Jan 2026_
 <!-- DOG_OF_DAY_END -->
 
 > "Good code is like a faithful dog: reliable and never bites." 🐕
