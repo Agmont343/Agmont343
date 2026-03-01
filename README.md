@@ -32,8 +32,8 @@
 ### 🐶 Dog of the Day — for daily inspiration
 
 <!-- DOG_OF_DAY_START -->
-![Dog of the Day](https://images.dog.ceo/breeds/segugio-italian/n02090722_001.jpg)
-_Last updated: 28 Feb 2026_
+![Dog of the Day](https://images.dog.ceo/breeds/bullterrier-staffordshire/n02093256_4972.jpg)
+_Last updated: 01 Mar 2026_
 <!-- DOG_OF_DAY_END -->
 
 > "Good code is like a faithful dog: reliable and never bites." 🐕
