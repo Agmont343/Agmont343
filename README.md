@@ -32,8 +32,8 @@
 ### 🐶 Dog of the Day — for daily inspiration
 
 <!-- DOG_OF_DAY_START -->
-![Dog of the Day](https://images.dog.ceo/breeds/whippet/n02091134_7310.jpg)
-_Last updated: 02 Mar 2026_
+![Dog of the Day](https://images.dog.ceo/breeds/kelpie/n02105412_2320.jpg)
+_Last updated: 03 Mar 2026_
 <!-- DOG_OF_DAY_END -->
 
 > "Good code is like a faithful dog: reliable and never bites." 🐕
