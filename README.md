@@ -82,8 +82,8 @@ Project focused on REST API testing and test case design.
 ### 🐶 Dog of the Day — for daily inspiration
 
 <!-- DOG_OF_DAY_START -->
-![Dog of the Day](https://images.dog.ceo/breeds/pekinese/n02086079_14929.jpg)
-_Last updated: 21 Mar 2026_
+![Dog of the Day](https://images.dog.ceo/breeds/waterdog-spanish/20190208_063211.jpg)
+_Last updated: 22 Mar 2026_
 <!-- DOG_OF_DAY_END -->
 
 > "Good code is like a faithful dog: reliable and never bites." 🐕
